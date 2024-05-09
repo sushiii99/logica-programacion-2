@@ -15,7 +15,7 @@ function convertirTemperatura() {
 
     // Convertir temperatura a grados Fahrenheit y Kelvin
     let temperaturaFahrenheit = (parseFloat(temperaturaCelsius) * 9 / 5) + 32;
-    let temperaturaKelvin = parseFloat(temperaturaCelsius) + 273.15;
+    let temperaturaKelvin = parseFloat(temperaturaCelsius) + 273.15; //tambien sirve Number 
 
     // Imprimir resultados
     console.log("Grados Fahrenheit:", temperaturaFahrenheit);

@@ -10,8 +10,8 @@ Debe imprimir ambos resultados por consola o por el DOM.
 Debe ser capaz de identificar si los datos de entrada sean de tipo number, en caso contrario debe mandar un mensaje de error y volver a solicitar los datos.
 
 Prueba tu programa con las siguientes entradas para asegurarte que funcione correctamente:
-Entrada:
 
+Entrada:
 45.
 Salida
 Grados Kelvin: 318.15
